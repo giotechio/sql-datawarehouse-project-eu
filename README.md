@@ -4,8 +4,9 @@ Build a data warehouse with SQL Server, ETL processes, data modeling and analyti
 ## project requirements
 
 ### Objective
-Develop a modern data warehouse using SQL Server to consolidate electricity generation, 
-car sales and fuel price data from the EU 27 countries, enabling analytical reporting and informed decision-making.
+Develop a data warehouse using SQL Server to consolidate electricity generation, 
+car sales , fuel and electricity prices, and economic data from the EU 27 countries, 
+enabling analytical reporting and informed decision-making.
 
 ### Specifications
 -	**Data Sources**   : Import data from websites and transform into CSV files.
